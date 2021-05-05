@@ -3,7 +3,7 @@ entries:
   javawebapp:
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2021-05-05T03:03:02.723021955Z"
+    created: "2021-05-05T03:19:56.755314764Z"
     description: A Helm chart for javawebappliction
     digest: f7e61713b45c70058a26876f7f12152c10427e80cbc5cb9a1eb1de92ddbb0365
     name: javawebapp
@@ -11,4 +11,15 @@ entries:
     urls:
     - https://mithuntechnologiesdevops.github.io/mithunhelm/javawebapp-0.1.0.tgz
     version: 0.1.0
-generated: "2021-05-05T03:03:02.722197101Z"
+  mavenwebapp:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-05-05T03:19:56.755936227Z"
+    description: A Helm chart for Kubernetes
+    digest: 9850cea437fadd95c3fc12438c0d899ab45a77c0fcc9078f9ffb59440b24326f
+    name: mavenwebapp
+    type: application
+    urls:
+    - https://mithuntechnologiesdevops.github.io/mithunhelm/mavenwebapp-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-05-05T03:19:56.754482617Z"
